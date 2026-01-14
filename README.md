@@ -21,7 +21,7 @@ IMC = peso / (altura²)
 
 Em seguida o resultado aparece na tela.
 
-#  Como executar
+#  Como executar 
 
 1. Certifique-se de ter o Python instalado
 2. Baixe os arquivos do projeto
