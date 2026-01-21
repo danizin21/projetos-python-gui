@@ -25,5 +25,5 @@ Em seguida o resultado aparece na tela.
 
 1. Certifique-se de ter o Python instalado
 2. Baixe os arquivos do projeto
-3. Execute o arquivo:
+3. Execute o arquivo
 
